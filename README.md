@@ -9,7 +9,7 @@
 7. ***Fast API*** - What is an API? | Introduction to APIs | FAST API for Machine Learning
 8. ***Agentic AI (Lang Graph, Lang Smith)*** - Agentic AI using LangGraph | New Playlist | LangGraph
 9. ***MCP*** - Model Context Protocol | Mini Playlist | MCP Trilogy | CampusX
-10. ***LLM Evaluations*** - Stop Vibe Testing Your AI! The Ultimate Guide to LLM Evaluations
+10. ***LLM Evaluations*** - Stop Vibe Testing Your AI! The Ultimate Guide to LLM Evaluations 
 
 # ***Build Portfolio***
 
