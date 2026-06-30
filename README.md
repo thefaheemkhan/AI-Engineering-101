@@ -3,3 +3,4 @@
 
 4 Weeks Plan 
 Week 1 Hands on ML
+week 2 LLM & Transformer
