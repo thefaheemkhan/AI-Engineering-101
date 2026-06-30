@@ -4,3 +4,4 @@
 4 Weeks Plan 
 Week 1 Hands on ML
 week 2 LLM & Transformer
+week 3 Gen AI RAG
