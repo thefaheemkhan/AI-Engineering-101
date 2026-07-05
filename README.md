@@ -1,3 +1,3 @@
 # AI Engineering Roadmap 
 LLM
-GenAI
+GenAI, RAG
