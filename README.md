@@ -2,4 +2,4 @@
 LLM
 GenAI, RAG, API
 AI Agents
-Dev, Cloud, Deployment
+Dev, Cloud, Deployment 
