@@ -3,4 +3,4 @@
 1. LLM 
 2. GenAI, RAG
 3. Agentic AI
-4. Dev
+4. Dev & Projects
