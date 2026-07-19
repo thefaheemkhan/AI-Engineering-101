@@ -9,4 +9,3 @@
 7. Step 6 - Security, Safety and Governance
 8. Step 7 - Deployment and LLMOps
 9. Step 8 - Specialize and Build Portfolio
-10. 
