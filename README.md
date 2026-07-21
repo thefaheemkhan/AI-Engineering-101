@@ -1,8 +1,8 @@
 # AI Engineering
 
-1. Step 0 - 
-2. Step 1 - 
-3. Step 2 - 
+1. Step 0 - Python Mastery
+2. Step 1 - ML, DL, CV, NLP, RL & Transformers
+3. Step 2 - LLM (Large Language Model)
 4. Step 3 - 
 5. Step 4 - 
 6. Step 5 - 
