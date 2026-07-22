@@ -1,15 +1,30 @@
 # AI Engineering
 
-1. Step 0 - Python Mastery
-2. Step 1 - ML, DL, CV, NLP, RL & Transformers
-3. Step 2 - LLM (Large Language Model)
-4. Step 3 - GenAI, RAG, APIs, Prompt Engineering, Vector Database
-5. Step 4 - AI Agents, Agent Orchestration, MultiAgents, MCP, etc
-6. Step 5 - Cloud, LLMOps
-7. Step 6 - Projects, Open Source Contribution & Development
-8. Step 7 - Interview Preparation
-9. Step 8 - Enigmax Labs
+## ***Phase 1 → Python, ML & DL, Transformer***
 
+1. ***Python Mastery*** - ThePythonBook — The Interactive Python Blog Tutorials 
+2. ***Hands-On Machine Learning Book*** - Preface | Hands-On Machine Learning
+3. ***Miscellaneous*** → ***Fast API*** → What is an API? | , ***Claude Code*** → Learn AI Coding the Right Way
 
+## ***Phase 2 → Large Language Model (LLM)***
+
+1. ***NLP (CS224N) Stanford*** →Stanford CS224N: NLP with Deep Learning | Spring 2024 |
+2. ***Build a Large Language Model (From Scratch)*** → Build a Large Language Model 
+3. ***Building LLM from Scratch (CS336) Stanford*** → Stanford CS336 Language Modeling 
+4. ***Hands-On Large Language Models*** → Hands-On Large Language Models
+5. ***Read 40–60 landmark LLM papers*** → AI Engineer Project Bible 
+
+## ***Phase 3 → AI Engineering, RAG, Agents, Prompt, Vector DB, etc.***
+
+1. ***RAG Campus Playlist*** → GenAI Roadmap for Beginners | ,  DeepLearning.AI: Start or Advance
+2. ***Agents Campusx Playlist*** → Agentic AI using LangGraph | , DeepLearning.AI: Start or Advance
+3. ***MCP Campusx Playlist*** → Model Context Protocol | , DeepLearning.AI: Start or Advance Your 
+4. ***LLMOps*** → DeepLearning.AI: Start or Advance Your Career in AI
+
+## ***Phase 4 → Portfolio & Interview Prep***
+
+1. ***Projects*** → AI Engineer Project Bible 
+2. ***Portfolio Profiles*** → GitHub, Substack, Hugging Face, GitHub Pages Portfolio, LinkedIn
+3. ***Interview Prep*** → AI Engineer Interview Questions: The Ultimate Preparation Guide
 
 
