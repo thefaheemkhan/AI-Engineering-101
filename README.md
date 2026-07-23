@@ -4,7 +4,8 @@
 
 1. ***Python Mastery*** - ThePythonBook — The Interactive Python Blog Tutorials 
 2. ***Hands-On Machine Learning Book*** - Preface | Hands-On Machine Learning
-3. ***Miscellaneous*** → ***Fast API*** → What is an API? | , ***Claude Code*** → Learn AI Coding the Right Way
+3. ***Karpathy Course*** → The spelled-out intro to neural networks and backpropagation
+4. ***Miscellaneous*** → ***Fast API*** → What is an API? | , ***Claude Code*** → Learn AI Coding the Right Way
 
 ## ***Phase 2 → Large Language Model (LLM)***
 
