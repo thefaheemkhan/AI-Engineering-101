@@ -6,7 +6,7 @@
 
 1. ***Python →*** Python, ***Exercise →*** Python Exercises
 2. ***DSA Python →*** 
-3. ***SQL & Database →***
+3. ***SQL & Database →*** 
 4. ***REST APIs & Fast API*** → What is an API? 
 5. ***Git & GitHub →***  
 6. ***OOP & Design Patterns →*** 
