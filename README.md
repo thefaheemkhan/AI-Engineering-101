@@ -29,7 +29,7 @@
 1. ***Transformer & LLM Overview →*** Stanford CME295 Transformers & LLMs | Autumn 2025
 2. ***Diffusion & Large Vision Model →*** Stanford CME296: Diffusion & Large Vision Model
 3. ***Building LLM from Scratch (CS336) Stanford →*** Stanford CS336 Language Modeling 
-4. ***LLM (Pre, Mid, Post Training, Fine-tuning) →*** 1. Foundations – AI Engineering Handbook
+4. ***LLM (Pre, Mid, Post Training, Fine-tuning) →*** 1. Foundations – AI Engineering Handbook 
 5. ***LLM Evaluation →*** Master LLM Evaluations: The Step-by-Step Playlist for 2026
 6. ***Reimplement Papers & Recreate their results & Building LLM Projects******
 
