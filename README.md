@@ -32,7 +32,7 @@
 4. ***LLM (Pre, Mid, Post Training, Fine-tuning) →*** 1. Foundations – AI Engineering Handbook 
 5. ***LLM Evaluation →*** Master LLM Evaluations: The Step-by-Step Playlist for 2026
 6. ***Reimplement Papers & Recreate their results & Building LLM Projects******
-
+ 
 ## ***Phase 5 → RAG & Search System.***
 
 ***Topics → RAG Architecture, Chunking Strategies, Vector Databases, Embedding Models, Hybrid Search (BM25 + Vector), Pre-ranking Models***
