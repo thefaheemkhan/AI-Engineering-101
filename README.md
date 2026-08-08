@@ -5,7 +5,7 @@
 ***Topics → Python (Advanced), DSA, SQL & Database Design, REST APIs & FastAPI, Git & GitHub, OOP & Design Patterns.***
 
 1. ***Python →*** Python, ***Exercise →*** Python Exercises
-2. ***DSA Python →*** 
+2. ***DSA Python →***  
 3. ***SQL & Database →*** 
 4. ***REST APIs & Fast API*** → What is an API? 
 5. ***Git & GitHub →***  
