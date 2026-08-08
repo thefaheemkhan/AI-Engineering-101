@@ -9,7 +9,7 @@
 3. ***SQL & Database →*** 
 4. ***REST APIs & Fast API*** → What is an API? 
 5. ***Git & GitHub →***  
-6. ***OOP & Design Patterns →***  
+6. ***OOP & Design Patterns →***   
  
 ## ***Phase 2 → ML, DL & Transformer*** 
 
