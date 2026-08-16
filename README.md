@@ -3,7 +3,7 @@
 ## ***Phase 1 → Python, ML & DL***    
  
 ***Topics → Python (Advanced), DSA, SQL & Database Design, REST APIs & FastAPI, Git & GitHub, OOP & Design Patterns.***
-
+ 
 1. ***Python →*** Python, ***Exercise →*** Python Exercises
 2. ***DSA Python →***  
 3. ***SQL & Database →*** 
