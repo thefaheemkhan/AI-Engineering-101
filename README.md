@@ -12,7 +12,7 @@
 6. ***OOP & Design Patterns →***   
  
 ## ***Phase 2 → ML, DL & Transformer***   
- 
+  
 ***Topics → Neural Networks, CNNs, RNNs & LSTM, Transformers, Attention Mechanism, Pytorch/Tensorflow.*** 
 
 1. ***Machine Learning →*** Machine Learning, ***Complete Hands-on ML →*** Hands-On Machine Learning
