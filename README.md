@@ -23,7 +23,7 @@
 6. ***NLP (CS224N Stanford) →*** Stanford CS224N: NLP with Deep Learning
 
 ## ***Phase 4 → Transformer & LLM (Large Language Model)***
-
+ 
 ***Topics → LLM Architecture, Tokenization, Embeddings, Prompt Engineering, Context windows, Fine-tuning Basics, Pre-Mid-Post Training.***
 
 1. ***Transformer & LLM Overview →*** Stanford CME295 Transformers & LLMs | Autumn 2025
