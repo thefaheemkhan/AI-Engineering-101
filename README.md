@@ -11,7 +11,7 @@
 5. ***Git & GitHub →***  
 6. ***OOP & Design Patterns →***   
 
-## ***Phase 2 → ML, DL & Transformer***   
+## ***Phase 2 → ML, DL & Transformer***    
    
 ***Topics → Neural Networks, CNNs, RNNs & LSTM, Transformers, Attention Mechanism, Pytorch/Tensorflow.*** 
 
