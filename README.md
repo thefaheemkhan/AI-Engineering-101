@@ -127,17 +127,26 @@
 
 ## Suggested learning order (condensed)
 
-1. Foundations → 
-2. Pretraining → 
-3. Mid/Post-training → 
-4. Fine-tuning → 
-5. Inference & Prompting → 
-6. RAG → 
-7. Agentic AI (loop + harness eng) → 
-8. Guardrails → 
-9. Gateways → 
-10. Observability & Eval → 
-11. LLMOps → 
-12. Cloud → 
-13. Security → 
-14. System Design →
+1. ***Python & (Pandas, NumPy, Visualization) →*** Python Fundamentals
+2. ***Machine Learning*** → What is Machine Learning? | 100 Days of Machine Learning
+3. ***Deep Learning*** → 100 Days of Deep Learning | Course Announcement
+4. ***PyTorch →*** PyTorch 
+5. ***Fast API*** → What is an API? | Introduction to APIs
+6. ***Claude Code*** → Learn AI Coding the Right Way (No Vibe Coding) | New Playlist | CampusX
+7. ***Transformers*** → The Epic History of Large Language Models (LLMs)
+8. ***Computer Vision*** → Stanford CS231N Deep Learning for Computer Vision
+9. ***Natural Language Processing*** → Stanford CS224N: NLP with Deep Learning
+10. ***LLM (Pre-Mid-Post Training)*** → Stanford CS336 Language Modeling from Scratch | Spring 2026
+11. ***LLM Fine-tuning*** → LLM Fine-Tuning: 01 LLM Fine-Tuning From Scratch
+12. ***Generative AI →*** GenAI Roadmap for Beginners
+13. ***Agentic AI →*** Agentic AI using LangGraph | New Playlist | LangGraph Tutorial
+14. ***MCP →*** Model Context Protocol | Mini Playlist | MCP Trilogy | CampusX
+15. ***Evaluation*** → Master LLM Evaluations: The Step-by-Step Playlist
+16. ***Inference & Prompting →*** 
+17. ***LLM Guardrails & Safety →***
+18. ***LLM Gateways →*** 
+19. ***Observability & Evaluations →*** 
+20. ***LLMOps & MLOps →***
+21. ***Cloud Platforms →*** 
+22. ***Security & Production Hardening →*** 
+23. ***System Design for Products →***
