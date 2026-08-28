@@ -2,7 +2,7 @@
 
 ---
 
-## Phase 0 — Foundations (don't skip)
+## Phase 0 — Foundations (don't skip) 
 
 - **Math**: linear algebra (matrix ops, eigenvectors), probability/statistics, calculus (gradients), information theory (entropy, KL divergence)
 - **Programming**: Python (async/await, typing, packaging), Git, Docker/containers, Linux/CLI basics
