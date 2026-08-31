@@ -1,7 +1,7 @@
 # AI Engineering Mastery Roadmap
 
 ---
-
+ 
 ## Phase 0 — Foundations (don't skip) 
 
 - **Math**: linear algebra (matrix ops, eigenvectors), probability/statistics, calculus (gradients), information theory (entropy, KL divergence)
