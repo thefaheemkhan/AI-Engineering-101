@@ -19,7 +19,7 @@
 - Infra: multi-GPU/multi-node training, checkpointing, cluster orchestration
 
 ## Phase 2 — Mid-training & Post-training
-
+ 
 - **Mid-training**: continued pretraining, domain adaptation, context-length extension (RoPE scaling, long-context tricks)
 - **Post-training**:
     - Supervised Fine-Tuning (SFT)
