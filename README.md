@@ -10,7 +10,7 @@
 - **Deep Learning core**: backprop, CNNs/RNNs (context, not depth), the **Transformer architecture** (attention, positional encoding, layer norm, KV cache) — this is the single most important thing to deeply understand
 
 ## Phase 1 — LLM Pre-training (the "pre" in pre/mid/post) 
-
+ 
 - Tokenization (BPE, SentencePiece), vocabulary design
 - Pretraining objectives (causal LM, masked LM)
 - Scaling laws (Chinchilla, compute-optimal training)
