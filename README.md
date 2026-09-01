@@ -127,7 +127,7 @@
 
 ## Suggested learning order (condensed)
 
-1. ***Python & (Pandas, NumPy, Visualization) →*** Python Fundamentals
+1. ***Python & (Pandas, NumPy, Visualization) →*** Python Fundamentals 
 2. ***Machine Learning*** → What is Machine Learning? | 100 Days of Machine Learning
 3. ***Deep Learning*** → 100 Days of Deep Learning | Course Announcement
 4. ***PyTorch →*** PyTorch 
