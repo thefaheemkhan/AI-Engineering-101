@@ -133,7 +133,7 @@ Document:
 
 ---
 
-# 00 -> Prerequisites
+# 00 - Prerequisites
 
 ## Python
 
@@ -177,7 +177,7 @@ Create a reusable Python package containing:
 
 ---
 
-# 01 — Mathematics for LLMs
+# 01 - Mathematics for LLMs
 
 ## Linear Algebra
 
@@ -235,7 +235,7 @@ Implement:
 
 ---
 
-# 02 — Machine Learning
+# 02 - Machine Learning
 
 Learn:
 
