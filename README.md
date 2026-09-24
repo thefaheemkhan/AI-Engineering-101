@@ -133,7 +133,7 @@ Document:
 
 ---
 
-# 00 — Prerequisites
+# 00 -> Prerequisites
 
 ## Python
 
