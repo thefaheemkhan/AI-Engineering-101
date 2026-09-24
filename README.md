@@ -267,7 +267,7 @@ This becomes the foundation for later LLM experimentation.
 
 ---
 
-# 03 — Deep Learning
+# 03. Deep Learning
 
 Learn:
 
@@ -289,7 +289,7 @@ Build an MLP framework in NumPy and then reproduce it in PyTorch.
 
 ---
 
-# 04 — NLP Foundations
+# 04. NLP Foundations
 
 Learn:
 
@@ -331,7 +331,7 @@ Build a search engine that combines:
 
 ---
 
-# 05 — Sequence Models
+# 05. Sequence Models
 
 Learn in historical order:
 
@@ -368,7 +368,7 @@ Build:
 
 ---
 
-# 06 — Attention
+# 06. Attention
 
 Learn:
 
@@ -409,7 +409,7 @@ Then implement:
 
 ---
 
-# 07 — Transformers
+# 07. Transformers
 
 Learn:
 
@@ -450,7 +450,7 @@ Requirements:
 
 ---
 
-# 08 — Tokenization
+# 08. Tokenization
 
 Learn:
 
@@ -495,7 +495,7 @@ Evaluate:
 
 ---
 
-# 09 — Embeddings
+# 09. Embeddings
 
 Learn:
 
@@ -521,7 +521,7 @@ Compare embedding models on:
 
 ---
 
-# 10 — Modern Transformer Architecture
+# 10. Modern Transformer Architecture
 
 Learn:
 
@@ -577,7 +577,7 @@ Then benchmark speed, memory and quality.
 
 ---
 
-# 11 — Build a Mini-LLM
+# 11. Build a Mini-LLM
 
 This is a major milestone.
 
@@ -622,7 +622,7 @@ Train on a small open corpus.
 
 ---
 
-# 12 — LLM Data Engineering
+# 12. LLM Data Engineering
 
 Learn:
 
@@ -674,7 +674,7 @@ Include dataset statistics and quality reports.
 
 ---
 
-# 13 — LLM Pretraining
+# 13. LLM Pretraining
 
 Learn:
 
@@ -708,7 +708,7 @@ Train a small decoder-only language model and perform:
 
 ---
 
-# 14 — Scaling Laws
+# 14. Scaling Laws
 
 Learn:
 
@@ -746,7 +746,7 @@ Produce scaling plots and an engineering report.
 
 ---
 
-# 15 — Distributed Training
+# 15. Distributed Training
 
 Learn:
 
@@ -786,7 +786,7 @@ Measure:
 
 ---
 
-# 16 — Continued Pretraining
+# 16. Continued Pretraining
 
 Learn:
 
@@ -813,7 +813,7 @@ Evaluate before vs after.
 
 ---
 
-# 17 — Fine-Tuning
+# 17. Fine-Tuning
 
 Learn:
 
@@ -839,7 +839,7 @@ Include:
 
 ---
 
-# 18 — PEFT / LoRA / QLoRA
+# 18. PEFT / LoRA / QLoRA
 
 Learn:
 
@@ -885,7 +885,7 @@ Build a service where a user can:
 
 ---
 
-# 19 — Instruction Tuning / SFT
+# 19. Instruction Tuning / SFT
 
 Learn:
 
@@ -922,7 +922,7 @@ Evaluate instruction following on a held-out dataset.
 
 ---
 
-# 20 — RLHF
+# 20. RLHF
 
 Learn:
 
@@ -970,7 +970,7 @@ Do not attempt the original industrial scale. Reproduce the mechanism at a small
 
 ---
 
-# 21 — Preference Optimization
+# 21. Preference Optimization
 
 Learn:
 
@@ -1011,7 +1011,7 @@ Measure:
 
 ---
 
-# 22 — Synthetic Data
+# 22. Synthetic Data
 
 Learn:
 
@@ -1056,7 +1056,7 @@ Training Dataset
 
 ---
 
-# 23 — Knowledge Distillation
+# 23. Knowledge Distillation
 
 Learn:
 
@@ -1085,7 +1085,7 @@ Compare:
 
 ---
 
-# 24 — Reasoning Models
+# 24. Reasoning Models
 
 Learn:
 
@@ -1130,7 +1130,7 @@ Verifier
 
 ---
 
-# 25 — RL for Reasoning
+# 25. RL for Reasoning
 
 Learn:
 
@@ -1157,7 +1157,7 @@ Measure whether reinforcement learning improves reasoning performance.
 
 ---
 
-# 26 — LLM Evaluation
+# 26. LLM Evaluation
 
 Learn:
 
@@ -1187,7 +1187,7 @@ Build a framework that:
 
 ---
 
-# 27 — Prompt Engineering
+# 27. Prompt Engineering
 
 Learn:
 
@@ -1226,7 +1226,7 @@ Latency
 
 ---
 
-# 28 — Context Engineering
+# 28. Context Engineering
 
 Learn:
 
@@ -1255,7 +1255,7 @@ Given a large context, automatically:
 
 ---
 
-# 29 — RAG Fundamentals
+# 29. RAG Fundamentals
 
 Learn:
 
@@ -1305,7 +1305,7 @@ Features:
 
 ---
 
-# 30 — Advanced RAG
+# 30. Advanced RAG
 
 Learn:
 
@@ -1362,7 +1362,7 @@ Evaluate:
 
 ---
 
-# 31 — Vector Databases
+# 31. Vector Databases
 
 Learn:
 
@@ -1393,7 +1393,7 @@ Benchmark:
 
 ---
 
-# 32 — RAG Evaluation
+# 32. RAG Evaluation
 
 Learn:
 
@@ -1426,7 +1426,7 @@ Include human evaluation for a validation subset.
 
 ---
 
-# 33 — LLM Inference
+# 33. LLM Inference
 
 Learn:
 
@@ -1452,7 +1452,7 @@ Learn:
 
 ---
 
-# 34 — Quantization
+# 34. Quantization
 
 Learn:
 
@@ -1495,7 +1495,7 @@ Measure:
 
 ---
 
-# 35 — Inference Optimization
+# 35. Inference Optimization
 
 ### ⭐ Essential paper
 
@@ -1530,7 +1530,7 @@ Compare inference engines and configurations on:
 
 ---
 
-# 36 — LLM Serving
+# 36. LLM Serving
 
 Learn:
 
@@ -1575,7 +1575,7 @@ Include:
 
 ---
 
-# 37 — Tool Calling
+# 37. Tool Calling
 
 Learn:
 
@@ -1604,7 +1604,7 @@ Add permission controls and audit logs.
 
 ---
 
-# 38 — AI Agents
+# 38. AI Agents
 
 ### ⭐ Essential paper
 
@@ -1662,7 +1662,7 @@ Add:
 
 ---
 
-# 39 — Multi-Agent Systems
+# 39. Multi-Agent Systems
 
 Learn:
 
@@ -1701,7 +1701,7 @@ Measure whether multi-agent orchestration actually improves quality over a singl
 
 ---
 
-# 40 — LLM Memory
+# 40. LLM Memory
 
 Learn:
 
@@ -1731,7 +1731,7 @@ Features:
 
 ---
 
-# 41 — Multimodal LLMs
+# 41. Multimodal LLMs
 
 Learn:
 
@@ -1776,7 +1776,7 @@ Output:
 
 ---
 
-# 42 — LLM Safety
+# 42. LLM Safety
 
 Learn:
 
@@ -1820,7 +1820,7 @@ Then implement:
 
 ---
 
-# 43 — LLM Security
+# 43. LLM Security
 
 Learn:
 
@@ -1852,7 +1852,7 @@ Include:
 
 ---
 
-# 44 — AI Application Engineering
+# 44. AI Application Engineering
 
 Learn:
 
@@ -1897,7 +1897,7 @@ Observability
 
 ---
 
-# 45 — LLMOps
+# 45. LLMOps
 
 Learn:
 
@@ -1954,7 +1954,7 @@ Retraining
 
 ---
 
-# 46 — Cloud & Deployment
+# 46. Cloud & Deployment
 
 Learn one cloud deeply:
 
@@ -1991,7 +1991,7 @@ Deploy your LLM/RAG/Agent platform with:
 
 ---
 
-# 47 — AI System Design
+# 47. AI System Design
 
 Learn to design:
 
@@ -2045,7 +2045,7 @@ Reliability
 
 ---
 
-# 48 — Research Engineering
+# 48. Research Engineering
 
 At this stage, stop thinking only in terms of "projects."
 
@@ -2069,7 +2069,7 @@ Learn:
 
 ---
 
-# 49 — Paper Reproduction Track
+# 49. Paper Reproduction Track
 
 For every major paper:
 
