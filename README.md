@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Goal
+## 🎯 Goal 
 
 This roadmap is designed for people who do not want to become only:
 
