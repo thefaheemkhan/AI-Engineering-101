@@ -7,7 +7,7 @@
 [![Research](https://img.shields.io/badge/Research-Paper%20%2B%20Reimplementation-purple)](#-research-method)
 [![Projects](https://img.shields.io/badge/Projects-Industry%20Focused-orange)](#-industry-level-project-portfolio)
 
----
+--- 
 
 ## 🎯 Goal 
 
