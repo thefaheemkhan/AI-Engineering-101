@@ -8,7 +8,7 @@
 [![Projects](https://img.shields.io/badge/Projects-Industry%20Focused-orange)](#-industry-level-project-portfolio)
 
 --- 
-
+ 
 ## 🎯 Goal 
 
 This roadmap is designed for people who do not want to become only:
